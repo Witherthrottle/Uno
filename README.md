@@ -47,11 +47,7 @@ Represents individual players, manages their cards, and interacts with the share
 
 ## Installation and Usage  
 
-1. **Clone the Repository**:  
-   ```bash  
-   git clone https://github.com/your-username/uno-game-simulation.git  
-   cd uno-game-simulation  
-   ```  
+1. **Clone the Repository** 
 
 2. **Compile the Code**:  
    Use any C++ compiler such as GCC or MSVC. For GCC:  
