@@ -91,26 +91,10 @@ Represents individual players, manages their cards, and interacts with the share
 3. **Error Handling**:  
    User inputs are validated using the `Invalidinput` exception class, ensuring robust input handling.  
 
----
-
-## Future Improvements  
-
-1. Add multiplayer functionality (e.g., over LAN or internet).  
-2. Enhance AI for single-player mode.  
-3. Improve graphics with a GUI library (e.g., SDL, SFML).  
-4. Add more detailed card animations.  
-
----
 
 ## Contribution  
 Feel free to fork the repository and submit pull requests for improvements or bug fixes.  
 
----
-
-## License  
-This project is licensed under the MIT License. See the `LICENSE` file for details.  
-
----
 
 ## Acknowledgements  
 - The ASCII art for cards was manually created to provide a visual experience in the console.  
